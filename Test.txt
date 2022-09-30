@@ -3,3 +3,5 @@ Your favourite cricketer?
 Ans : (Your name - Cricketer name)
 Ans : (Sanket - Ms Dhoni)
 Ans : (Preshita - Virat Kohli)
+Ans : (Aman : Rohit sharma)
+Ans : (Azim - Trent Boult)
